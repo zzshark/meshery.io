@@ -144,14 +144,14 @@
   presenter2_profile: https://layer5.io/community/members/tanuj-agarwal
   new_window: true
 
-- title: Functional Testing with Cypress in Meshery UI
-  type: tutorial
-  video: https://youtu.be/pIFSI7xtwFs
-  embeded_video: https://www.youtube.com/embed/pIFSI7xtwFs
-  presentation: https://layer5.io/blog/meshery/functional-testing-with-cypress-in-meshery-ui
-  presenter1: Rodolfo Martinez Vega
-  presenter1_profile: https://layer5.io/community/members/rodolfo-martinez-vega
-  new_window: true
+# - title: Functional Testing with Cypress in Meshery UI
+#   type: tutorial
+#   video: https://youtu.be/pIFSI7xtwFs
+#   embeded_video: https://www.youtube.com/embed/pIFSI7xtwFs
+#   presentation: https://layer5.io/blog/meshery/functional-testing-with-cypress-in-meshery-ui
+#   presenter1: Rodolfo Martinez Vega
+#   presenter1_profile: https://layer5.io/community/members/rodolfo-martinez-vega
+#   new_window: true
 
 - title: Beginner's guide to contributing to Meshery and mesheryctl
   type: tutorial
